@@ -1,0 +1,17 @@
+.env
+*.pyc
+__pycache__/
+.DS_Store
+*.log
+.claude/
+ref_only/
+ref_ui_only/
+ref_ui_only_2/
+skills/*
+!skills/README.md
+!skills/deep-research-diamond
+dashboard-ref-only/
+openai_anth_ref_only/
+OVERVIEW.md
+hermes-git/
+for-me.md
